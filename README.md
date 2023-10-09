@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&text=YEONG%20KI%20PARK&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=YEONG%20KI%20PARK&fontSize=30)
 
 [![park-yeong-ki's GitHub stats](https://github-readme-stats.vercel.app/api?username=park-yeong-ki)](https://github.com/anuraghazra/github-readme-stats)
 
