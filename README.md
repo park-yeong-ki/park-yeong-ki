@@ -2,9 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=YEONG%20KI%20PARK&fontSize=30)
 
-![park-yeong-ki's GitHub stats](https://github-readme-stats.vercel.app/api?username=park-yeong-ki&theme=nord)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-yeong-ki&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-yeong-ki&layout=donut) ![park-yeong-ki's GitHub stats](https://github-readme-stats.vercel.app/api?username=park-yeong-ki&theme=nord)
 
 <br>
 
